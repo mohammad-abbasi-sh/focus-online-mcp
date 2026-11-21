@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>FOCUS online - Aktuelle Nachrichten</title>
+    <language>de</language>
+    <link>https://www.focus.de/</link>
+    <description>FOCUS online – minutenaktuelle Nachrichten und Service-Informationen von Deutschlands modernem Nachrichtenmagazin.</description>
+    <lastBuildDate>Sat, 21 Nov 2026 10:19:14 +0000</lastBuildDate>
+    <image>
+      <url>https://www.focus.de/ctf/focus/favicon/favicon.ico</url>
+      <link>https://www.focus.de/rss/</link>
+      <title>FOCUS online - Aktuelle Nachrichten</title>
+    </image>
+    <atom:link href="https://www.focus.de/rss/" rel="self" type="application/rss+xml"/>
+    <item>
+      <kicker>Milliardenverluste für Anleger</kicker>
+      <title>Vom Boom zum Absturz: Die Trump-Wette geht nicht mehr auf</title>
+      <link>https://www.focus.de/finanzen/vom-boom-zum-absturz-die-trump-wette-geht-nicht-mehr-auf_3f006815-3ea2-4d90-9562-653aad882a67.html</link>
+      <description>Donald Trumps geschätztes Vermögen ist seit September 2025 um eine Milliarde US-Dollar geschrumpft. Härter trifft der Absturz viele Anleger. Der Präsident hat Kryptogewinne längst in Aktien und Anleihen gesteckt.</description>
+      <media:content url="https://quadro.burda-forward.de/ctf/94113456-f5dc-4ba3-a690-caadb809e1f2.5a8a4596-8fc0-4a9d-bdf7-db1a81c2ea77.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(1809,1000)&amp;hash=a227d62dcf9f68d0519ed3cc2c9fbbcf8e7a4dd2b51779b4f41270e3efe512d6" width="1200" height="675" type="image/jpeg">
+        <media:credit>AFP via Getty Images © BRENDAN SMIALOWSKI</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/94113456-f5dc-4ba3-a690-caadb809e1f2.5a8a4596-8fc0-4a9d-bdf7-db1a81c2ea77.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(1809,1000)&hash=a227d62dcf9f68d0519ed3cc2c9fbbcf8e7a4dd2b51779b4f41270e3efe512d6" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Milliardenverluste für Anleger</figcaption>
+  </figure>
+  <p>Milliardenverluste für Anleger</p>
+  <p>Author: Ansgar Graw</p>]]></content:encoded>
+      <dcterms:alternative>Donald Trumps geschätztes Vermögen ist seit September 2025 um eine Milliarde US-Dollar geschrumpft. Härter trifft der Absturz viele Anleger. Der Präsident hat Kryptogewinne längst in Aktien und Anleihen gesteckt.</dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 10:09:00 +0000</pubDate>
+      <dc:creator>Ansgar Graw</dc:creator>
+      <media:player url="https://www.focus.de/finanzen/vom-boom-zum-absturz-die-trump-wette-geht-nicht-mehr-auf_3f006815-3ea2-4d90-9562-653aad882a67.html" width="990" height="600"/>
+      <guid isPermaLink="false">3f006815-3ea2-4d90-9562-653aad882a67</guid>
+    </item>
+<item>
+      <kicker>Männlich, gesund, mit Studium</kicker>
+      <title>Männlich, gesund, mit Studium: Syrer Ahmed D. wird trotzdem nicht abgeschoben</title>
+      <link>https://www.focus.de/politik/deutschland/maennlich-gesund-mit-studium-syrer-ahmed-d-wird-trotzdem-nicht-abgeschoben_44a6fd0e-7d52-4ac8-a9e1-0ff8919202af.html</link>
+      <description>Ahmed D. ist gesund, gut ausgebildet und wurde in seiner Heimat Syrien nicht verfolgt. Trotzdem darf er nicht abgeschoben werden. FOCUS online liegt der Bescheid vor. Ein Beispiel, wie Anspruch von Regierung und die Behörden-Wirklichkeit aufeinanderprallen. </description>
+      <media:content url="https://quadro.burda-forward.de/ctf/aa7381aa-e753-4e5d-bc7a-213485903cc7.3a3389ef-480f-4947-82eb-ea8b05990f6d.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(304,239)&amp;hash=2340c15a75002bed12e52c59a1096ffc83dec203fce5658549504ca46114987c" width="1200" height="675" type="image/jpeg">
+        <media:credit>dpa/Swen Pförtner</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/aa7381aa-e753-4e5d-bc7a-213485903cc7.3a3389ef-480f-4947-82eb-ea8b05990f6d.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(304,239)&hash=2340c15a75002bed12e52c59a1096ffc83dec203fce5658549504ca46114987c" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Männlich, gesund, mit Studium</figcaption>
+  </figure>
+  <p>Männlich, gesund, mit Studium</p>
+  <p>Author: Christian Gehrke</p>]]></content:encoded>
+      <dcterms:alternative>Ahmed D. ist gesund, gut ausgebildet und wurde in seiner Heimat Syrien nicht verfolgt. Trotzdem darf er nicht abgeschoben werden. FOCUS online liegt der Bescheid vor. Ein Beispiel, wie Anspruch von Regierung und die Behörden-Wirklichkeit aufeinanderprallen. </dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 10:06:00 +0000</pubDate>
+      <dc:creator>Christian Gehrke</dc:creator>
+      <media:player url="https://www.focus.de/politik/deutschland/maennlich-gesund-mit-studium-syrer-ahmed-d-wird-trotzdem-nicht-abgeschoben_44a6fd0e-7d52-4ac8-a9e1-0ff8919202af.html" width="990" height="600"/>
+      <guid isPermaLink="false">44a6fd0e-7d52-4ac8-a9e1-0ff8919202af</guid>
+    </item>
+<item>
+      <kicker>Bei Talkshow-Comeback</kicker>
+      <title>Til Schweiger rechnet in „NDR Talk Show“ ab: „Gibt viele Menschen, die mich nicht leiden können“</title>
+      <link>https://www.focus.de/kultur/stars/til-schweiger-rechnet-in-ndr-talk-show-ab-gibt-viele-menschen-die-mich-nicht-leiden-koennen_d76cd668-40aa-4f8c-879f-bfb0ff177962.html</link>
+      <description>Drei Jahre lang hatte sich Schauspieler, Regisseur und Produzent Til Schweiger zurückgezogen. Am Freitagabend ist er zu Gast in der „NDR Talk Show“ - und schimpft auf die Medien. Zumindest auf ein Nachrichtenmagazin.</description>
+      <media:content url="https://quadro.burda-forward.de/ctf/e4189828-b40f-41e5-a339-c36782fc2d19.14ee2907-f15e-44b1-8460-c9658cd0ca92.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(680,383)&amp;hash=25fa0af757b4f10be3ea8ebcee498a97969cf968930c76db2565aabac1bd7159" width="1200" height="675" type="image/jpeg">
+        <media:credit>NDR</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/e4189828-b40f-41e5-a339-c36782fc2d19.14ee2907-f15e-44b1-8460-c9658cd0ca92.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(680,383)&hash=25fa0af757b4f10be3ea8ebcee498a97969cf968930c76db2565aabac1bd7159" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Bei Talkshow-Comeback</figcaption>
+  </figure>
+  <p>Bei Talkshow-Comeback</p>
+  <p>Author: undefined</p>]]></content:encoded>
+      <dcterms:alternative>Drei Jahre lang hatte sich Schauspieler, Regisseur und Produzent Til Schweiger zurückgezogen. Am Freitagabend ist er zu Gast in der „NDR Talk Show“ - und schimpft auf die Medien. Zumindest auf ein Nachrichtenmagazin.</dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 10:06:00 +0000</pubDate>
+      <dc:creator/>
+      <media:player url="https://www.focus.de/kultur/stars/til-schweiger-rechnet-in-ndr-talk-show-ab-gibt-viele-menschen-die-mich-nicht-leiden-koennen_d76cd668-40aa-4f8c-879f-bfb0ff177962.html" width="990" height="600"/>
+      <guid isPermaLink="false">d76cd668-40aa-4f8c-879f-bfb0ff177962</guid>
+    </item>
+<item>
+      <kicker>Regierungsbildung in Berlin</kicker>
+      <title>„Schräge Vögel kein Einzelfall“: Linken-Politiker Ahmed Abed und Jorinde Schulz besuchten Hisbollah-Verein</title>
+      <link>https://www.focus.de/politik/deutschland/schraege-voegel-kein-einzelfall-linken-politiker-ahmed-abed-und-jorinde-schulz-besuchten-hisbollah-verein_9477e266-fe86-4c2c-bad3-06bee22f0cf2.html</link>
+      <description>Fotos zeigen zwei Berliner Linken-Politiker bei einem Verein, der jetzt wegen Unterstützung der Hisbollah verboten wurde. Die Partei gerät weiter in Erklärungsnot. Die Frage, ob diese Linke Berlin überhaupt regieren kann, wird lauter.</description>
+      <media:content url="https://quadro.burda-forward.de/ctf/bc978e6d-99dc-497c-a598-f82e93993870.19a4771e-42ba-490a-a1d5-2955dbee9815.png?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(859,209)&amp;hash=5a62413dad1559239133de13b1abc2b73dcc186ae7d0280cabe3748a4cd7a193" width="1200" height="675" type="image/jpeg">
+        <media:credit>Funke Foto Services</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/bc978e6d-99dc-497c-a598-f82e93993870.19a4771e-42ba-490a-a1d5-2955dbee9815.png?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(859,209)&hash=5a62413dad1559239133de13b1abc2b73dcc186ae7d0280cabe3748a4cd7a193" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Regierungsbildung in Berlin</figcaption>
+  </figure>
+  <p>Regierungsbildung in Berlin</p>
+  <p>Author: Christian Gehrke</p>]]></content:encoded>
+      <dcterms:alternative>Fotos zeigen zwei Berliner Linken-Politiker bei einem Verein, der jetzt wegen Unterstützung der Hisbollah verboten wurde. Die Partei gerät weiter in Erklärungsnot. Die Frage, ob diese Linke Berlin überhaupt regieren kann, wird lauter.</dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 10:04:00 +0000</pubDate>
+      <dc:creator>Christian Gehrke</dc:creator>
+      <media:player url="https://www.focus.de/politik/deutschland/schraege-voegel-kein-einzelfall-linken-politiker-ahmed-abed-und-jorinde-schulz-besuchten-hisbollah-verein_9477e266-fe86-4c2c-bad3-06bee22f0cf2.html" width="990" height="600"/>
+      <guid isPermaLink="false">9477e266-fe86-4c2c-bad3-06bee22f0cf2</guid>
+    </item>
+<item>
+      <kicker>Funde in chinesischen Höhlen</kicker>
+      <title>Archäologische Sensation: Rund 320.000 Jahre alte Zähne offenbaren neuen Lebensraum des Homo erectus</title>
+      <link>https://www.focus.de/wissen/mensch/archaeologische-sensation-rund-320-000-jahre-alte-zaehne-offenbaren-neuen-lebensraum-des-homo-erectus_03dd20b4-25f0-4dca-9e96-628cd9a7a9d9.html</link>
+      <description>Der Frühmensch könnten noch vor 184.000 Jahren im Süden Chinas gelebt haben, wie fossile Zähne belegen. Überraschend ist auch der Lebensraum dieser Population.</description>
+      <media:content url="https://quadro.burda-forward.de/ctf/5ee35cab-257f-4fdd-9c4f-8bd66d94b91f.9f78fa68-d758-49cc-b652-a7038e5b80d8.jpg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(1556,1267)&amp;hash=cb1f825a32c1f6d67fe5feb48a8ef45182c6cd4b9c1ae6d5b66f9faf2cc2a303" width="1200" height="675" type="image/jpeg">
+        <media:credit>IMAGO / MiS</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/5ee35cab-257f-4fdd-9c4f-8bd66d94b91f.9f78fa68-d758-49cc-b652-a7038e5b80d8.jpg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(1556,1267)&hash=cb1f825a32c1f6d67fe5feb48a8ef45182c6cd4b9c1ae6d5b66f9faf2cc2a303" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Funde in chinesischen Höhlen</figcaption>
+  </figure>
+  <p>Funde in chinesischen Höhlen</p>
+  <p>Author: undefined</p>]]></content:encoded>
+      <dcterms:alternative>Der Frühmensch könnten noch vor 184.000 Jahren im Süden Chinas gelebt haben, wie fossile Zähne belegen. Überraschend ist auch der Lebensraum dieser Population.</dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+      <dc:creator/>
+      <media:player url="https://www.focus.de/wissen/mensch/archaeologische-sensation-rund-320-000-jahre-alte-zaehne-offenbaren-neuen-lebensraum-des-homo-erectus_03dd20b4-25f0-4dca-9e96-628cd9a7a9d9.html" width="990" height="600"/>
+      <guid isPermaLink="false">03dd20b4-25f0-4dca-9e96-628cd9a7a9d9</guid>
+    </item>
+<item>
+      <kicker>Drei Erkenntnisse des Frust-Spiels</kicker>
+      <title>Dieser Abend droht für Bayern schwere Folgen zu haben</title>
+      <link>https://www.focus.de/sport/fussball/dieser-abend-droht-fuer-bayern-schwere-folgen-zu-haben_fd6555ab-c65a-42eb-82d9-bd504610b0d5.html</link>
+      <description>Der FC Bayern spielt nur 1:1 gegen Köln und verliert Harry Kane für Monate. Dieser Abend hat das Potenzial, die Münchner in eine Krise zu stürzen - drei Erkenntnisse.</description>
+      <media:content url="https://quadro.burda-forward.de/ctf/2d620cef-3929-4739-94e5-a88d49c503d7.c35017c8-347f-4860-b102-67ed0189a5d0.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(778,432)&amp;hash=c6ba3062bd3675b6654d33dbd369be2dd53ad6194fe0ac63f7cf5b9c56fbc018" width="1200" height="675" type="image/jpeg">
+        <media:credit>Imago</media:credit>
+      </media:content>
+      <media:category>news</media:category>
+      <content:encoded><![CDATA[
+  <figure>
+    <img src="https://quadro.burda-forward.de/ctf/2d620cef-3929-4739-94e5-a88d49c503d7.c35017c8-347f-4860-b102-67ed0189a5d0.jpeg?im=RegionOfInterestCrop=(1200,675),regionOfInterest=(778,432)&hash=c6ba3062bd3675b6654d33dbd369be2dd53ad6194fe0ac63f7cf5b9c56fbc018" style="max-width: 1200px; width: 100%;" />
+    <figcaption>Drei Erkenntnisse des Frust-Spiels</figcaption>
+  </figure>
+  <p>Drei Erkenntnisse des Frust-Spiels</p>
+  <p>Author: undefined</p>]]></content:encoded>
+      <dcterms:alternative>Der FC Bayern spielt nur 1:1 gegen Köln und verliert Harry Kane für Monate. Dieser Abend hat das Potenzial, die Münchner in eine Krise zu stürzen - drei Erkenntnisse.</dcterms:alternative>
+      <dc:publisher>Focus.de</dc:publisher>
+      <pubDate>Sat, 21 Nov 2026 09:50:00 +0000</pubDate>
+      <dc:creator/>
+      <media:player url="https://www.focus.de/sport/fussball/dieser-abend-droht-fuer-bayern-schwere-folgen-zu-haben_fd6555ab-c65a-42eb-82d9-bd504610b0d5.html" width="990" height="600"/>
+      <guid isPermaLink="false">fd6555ab-c65a-42eb-82d9-bd504610b0d5</guid>
+    </item>
+</channel>
+</rss>
