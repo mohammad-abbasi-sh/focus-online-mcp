@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "focus-online-mcp"
+version = "0.1.0"
+description = "Unofficial read-only MCP server for FOCUS online — headlines, news by section, keyword search and full article text via the official RSS feed"
+readme = "README.md"
+license = { text = "PolyForm-Noncommercial-1.0.0" }
+requires-python = ">=3.10"
+dependencies = [
+    "mcp<2",
+    "httpx>=0.27",
+]
+authors = [{ name = "Mohammad Abbasi" }]
+
+[project.scripts]
+focus-online-mcp = "focus_online_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/focus_online_mcp"]
+
+[tool.pytest.ini_options]
+markers = ["live: tests that hit the real www.focus.de RSS feed and article pages"]
